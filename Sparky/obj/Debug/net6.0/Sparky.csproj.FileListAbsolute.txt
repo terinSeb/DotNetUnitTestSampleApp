@@ -1,0 +1,12 @@
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\bin\Debug\net6.0\Sparky.deps.json
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\bin\Debug\net6.0\Sparky.dll
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\bin\Debug\net6.0\Sparky.pdb
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\Sparky.csproj.AssemblyReference.cache
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfoInputs.cache
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfo.cs
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\Sparky.csproj.CoreCompileInputs.cache
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\Sparky.dll
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\refint\Sparky.dll
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\Sparky.pdb
+D:\Terin\UnitTestSampleProject\SparkyNUnitTest\Sparky\obj\Debug\net6.0\ref\Sparky.dll
